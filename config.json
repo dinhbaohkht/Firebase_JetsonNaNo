@@ -1,0 +1,22 @@
+{
+    "capture": "rtsp://admin:Admin@123@14.241.46.151:1554/profile3/media.smp",
+    "detect_license": true,
+    "lane_center": [
+        439,
+        609,
+        699,
+        587
+    ],
+    "lane_left": [
+        439,
+        609,
+        423,
+        609
+    ],
+    "lane_right": [
+        721,
+        588,
+        1069,
+        579
+    ]
+}
